@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Impact metrics: 15 million dollars pipeline influenced, under 5 minute speed to lead, 50+ automated workflows, 10x SDR output multiplier">
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif">
+
+    <g>
+      <rect x="0" y="0" width="285" height="150" rx="18" fill="#0f172a" stroke="#a78bfa" stroke-opacity="0.18"/>
+      <rect x="20" y="0" width="245" height="3" rx="1.5" fill="#a78bfa" fill-opacity="0.85"/>
+      <rect x="24" y="26" width="36" height="36" rx="11" fill="#a78bfa" fill-opacity="0.10" stroke="#a78bfa" stroke-opacity="0.22"/>
+      <g transform="translate(32,36)" stroke="#a78bfa" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="0,15 6,9 10,12 19,3"/>
+        <polyline points="13.5,3 19,3 19,8.5"/>
+      </g>
+      <text x="24" y="112" font-size="32" font-weight="800" letter-spacing="-1" fill="#f1f5f9">$15M+</text>
+      <text x="24" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="1.3" fill="#94a3b8">PIPELINE INFLUENCED</text>
+    </g>
+
+    <g>
+      <rect x="305" y="0" width="285" height="150" rx="18" fill="#0f172a" stroke="#34d399" stroke-opacity="0.18"/>
+      <rect x="325" y="0" width="245" height="3" rx="1.5" fill="#34d399" fill-opacity="0.85"/>
+      <rect x="329" y="26" width="36" height="36" rx="11" fill="#34d399" fill-opacity="0.10" stroke="#34d399" stroke-opacity="0.22"/>
+      <g transform="translate(337,36)" stroke="#34d399" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="9.5" cy="9.5" r="8.3"/>
+        <polyline points="9.5,4.8 9.5,10 13.2,12.2"/>
+      </g>
+      <text x="329" y="112" font-size="32" font-weight="800" letter-spacing="-1" fill="#f1f5f9">&lt; 5 min</text>
+      <text x="329" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="1.3" fill="#94a3b8">SPEED TO LEAD</text>
+    </g>
+
+    <g>
+      <rect x="610" y="0" width="285" height="150" rx="18" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.18"/>
+      <rect x="630" y="0" width="245" height="3" rx="1.5" fill="#38bdf8" fill-opacity="0.85"/>
+      <rect x="634" y="26" width="36" height="36" rx="11" fill="#38bdf8" fill-opacity="0.10" stroke="#38bdf8" stroke-opacity="0.22"/>
+      <g transform="translate(642,36)" stroke="#38bdf8" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M11.5 0.8 L2.8 11.6 H8.6 L7.6 19.2 L16.4 7.8 H10.6 Z"/>
+      </g>
+      <text x="634" y="112" font-size="32" font-weight="800" letter-spacing="-1" fill="#f1f5f9">50+</text>
+      <text x="634" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="1.3" fill="#94a3b8">AUTOMATED WORKFLOWS</text>
+    </g>
+
+    <g>
+      <rect x="915" y="0" width="285" height="150" rx="18" fill="#0f172a" stroke="#fbbf24" stroke-opacity="0.18"/>
+      <rect x="935" y="0" width="245" height="3" rx="1.5" fill="#fbbf24" fill-opacity="0.85"/>
+      <rect x="939" y="26" width="36" height="36" rx="11" fill="#fbbf24" fill-opacity="0.10" stroke="#fbbf24" stroke-opacity="0.22"/>
+      <g transform="translate(947,36)" stroke="#fbbf24" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="7.5" cy="6.4" r="3.9"/>
+        <path d="M1 18.6 a6.5 6.5 0 0 1 13 0"/>
+        <circle cx="15.6" cy="7.6" r="2.6" stroke-opacity="0.55"/>
+        <path d="M13.8 18.6 a5.2 5.2 0 0 1 5.4 -4.4" stroke-opacity="0.55"/>
+      </g>
+      <text x="939" y="112" font-size="32" font-weight="800" letter-spacing="-1" fill="#f1f5f9">10×</text>
+      <text x="939" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="1.3" fill="#94a3b8">SDR OUTPUT MULTIPLIER</text>
+    </g>
+
+  </g>
+</svg>

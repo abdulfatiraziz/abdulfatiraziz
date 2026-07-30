@@ -1,71 +1,53 @@
 <div align="center">
-
-# Hi, I'm Abdul Fatir Aziz 👋
-
-### GTM Engineer @ FullFunnel — I build AI-native revenue engines that scale
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdulportfolio--ruby.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulportfolio-ruby.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulfatiraziz/)
-[![Email](https://img.shields.io/badge/Email-abdulfatiraziz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulfatiraziz@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@abdulfatiraziz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdulfatiraziz/)
-
+  <img src="assets/hero.svg" alt="Abdul Fatir Aziz — GTM Engineer @ FullFunnel" width="100%">
 </div>
 
----
-
-### 🚀 What I do
-
-Architecting automated GTM motions across **Inbound, Outbound, Paid, Organic, Partnerships,** and **Events** — with deep AI agent integration to drive efficient revenue growth.
-
-- 🎯 **GTM Architecture & Automation**
-- 🤖 **AI Agent Infrastructure**
-- 📡 **Signal-Based Outbound Systems**
-- ⚙️ **RevOps & CRM Optimization**
-- 🎨 **Creative Direction & Sales Ops**
-
 <div align="center">
-
-| 💰 Pipeline Influenced | ⚡ Speed to Lead | 🔧 Automated Workflows | 📈 SDR Output Multiplier |
-|:---:|:---:|:---:|:---:|
-| **$15M+** | **< 5 Min** | **50+** | **10x** |
-
+  <a href="https://abdulportfolio-ruby.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0b1120?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/abdulfatiraziz/"><img src="https://img.shields.io/badge/LinkedIn-0b1120?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:abdulfatiraziz@gmail.com"><img src="https://img.shields.io/badge/Email-0b1120?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/abdulfatiraziz/"><img src="https://img.shields.io/badge/Instagram-0b1120?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
----
+<br>
 
-### 🛠️ Stack Depth — 50+ Enterprise Tools
+<img src="assets/metrics.svg" alt="$15M+ pipeline influenced · under 5 min speed to lead · 50+ automated workflows · 10x SDR output multiplier" width="100%">
 
-![Clay](https://img.shields.io/badge/Clay-000000?style=flat-square)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
-![Instantly](https://img.shields.io/badge/Instantly-000000?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+<br>
 
-**Certifications:** Clay Inbound · Clay Outbound · Make AI Agent · Airtable App · HubSpot RevOps
+I design and ship the machinery behind revenue — signal-based outbound, enriched data
+pipelines, agent-run workflows, and the reporting layer that proves any of it worked.
+Six years across creative direction, sales operations and GTM engineering; these days
+mostly building AI-native systems that replace manual GTM labour.
 
----
+<br>
 
-### 📊 GitHub Stats
+<img src="assets/stack.svg" alt="Stack: enrichment and data, outbound and sequences, CRM and RevOps, automation, AI agents, build and deploy" width="100%">
+
+<br>
+
+<img src="assets/agents.svg" alt="Agent fleet — seven GTM agents in production" width="100%">
+
+<br>
+
+## Selected work
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulfatiraziz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulfatiraziz&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulfatiraziz&theme=tokyonight&hide_border=true" />
-
+  <a href="https://github.com/abdulfatiraziz/SynapseAgenticGTMOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulfatiraziz&repo=SynapseAgenticGTMOS&bg_color=0f172a&title_color=a78bfa&text_color=94a3b8&icon_color=38bdf8&border_color=1e293b&border_radius=16" alt="SynapseAgenticGTMOS"></a>
+  <a href="https://github.com/abdulfatiraziz/faceforge-landing-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulfatiraziz&repo=faceforge-landing-page&bg_color=0f172a&title_color=a78bfa&text_color=94a3b8&icon_color=38bdf8&border_color=1e293b&border_radius=16" alt="faceforge-landing-page"></a>
 </div>
 
----
+## Activity
 
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulfatiraziz&show_icons=true&count_private=true&include_all_commits=true&bg_color=0f172a&title_color=a78bfa&text_color=94a3b8&icon_color=38bdf8&border_color=1e293b&border_radius=16" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulfatiraziz&layout=compact&langs_count=8&bg_color=0f172a&title_color=a78bfa&text_color=94a3b8&border_color=1e293b&border_radius=16" alt="Top languages">
+</div>
 
-📍 Based in Bengaluru, India — working with clients globally
-✅ Currently accepting select consulting clients
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=abdulfatiraziz&color=7c3aed&style=flat-square&label=Profile+Views" />
-
+<div align="center">
+  <sub><b>Bengaluru, India</b> — working with clients globally &nbsp;·&nbsp; currently accepting select consulting clients</sub>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=abdulfatiraziz&color=7c3aed&style=flat-square&label=profile+views" alt="Profile views">
 </div>
